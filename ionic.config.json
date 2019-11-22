@@ -1,0 +1,7 @@
+{
+  "name": "tabsfastgi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
