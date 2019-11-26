@@ -52,3 +52,11 @@ ion-list {
   color: white !important;
   background-color: var(--ion-color-dark) !important;
 }
+
+ion-tab-button {
+  --color: white !important;
+  --color-selected: var(--ion-color-primary) !important;
+}
+.bg-dark {
+  background-color: var(--ion-color-dark) !important;
+}
